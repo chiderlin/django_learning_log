@@ -1,7 +1,7 @@
 # django_learning_log
 first learning project for Django
 
-let user recode what they learning about.
+let user record what they learning about.
 deploy on Heoku.
 
 #### website:
